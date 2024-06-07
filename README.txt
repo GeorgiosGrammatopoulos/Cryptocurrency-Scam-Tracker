@@ -11,3 +11,9 @@ I mean, to experience it. To watch something like that happen to someone else is
 Anyway, I do this for the practice and the 'told-you-so's. Not for you to lose your money.
 
 Consider yourself warned. Now, go kids, play around!
+
+
+
+
+
+(Wow, wow, wow, just before you go! In order to protect yourselves, the implementation I am running uses local authentication. This means that, in order to input and access data, you need to have SSMS installed, and a database promptly named "models"- and not "model"; that already exists. I know because I got the gift. Remember to replace my device name with yours, and to make sure that SSMS is set to local authentication! Otherwise, just make sure that you're adjusting the pyODBC commands properly, to ensure appropriate implementation. If you're not savvy with databases, become savvy with databases before even addressing me. Gendered b-word.)
